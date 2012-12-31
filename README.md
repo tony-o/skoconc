@@ -16,8 +16,8 @@ Within your application:
         /* do some stuff here */
         callback();
     };
-    
-    nq.nq(somefunction, somefunctionsargs);
+    skoconc.max(5);    
+    skoconc.push(somefunction, somefunctionsargs);
 ```
 
 Is this All?
