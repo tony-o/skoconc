@@ -1,0 +1,12 @@
+{
+  "name":"skoconc"
+  ,"version":"v0.1.0-1"
+  ,"homepage":"http://skod.it/"
+  ,"main":"skoconc"
+  ,"repository":{
+    "type":"git"
+    ,"url":"git@github.com:tony-o/skoconc.git"
+  }
+  ,"description":"A nice, lightweight module that limits concurrency of a function.  If you're looking to say 'I want 3 instances of this to run at a time', then this module is for you."
+  ,"keywords":["concurrency","limit","callback","order"]
+}
