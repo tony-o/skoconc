@@ -6,7 +6,7 @@ var push = function(f,a){
   next();
 };
 var next = function(){
-  if(open >= max){
+  if(open >= max && max >= 0){
     return;
   }
   var i = queue.shift();
